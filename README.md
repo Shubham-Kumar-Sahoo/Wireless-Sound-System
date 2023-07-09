@@ -4,6 +4,6 @@ In this project, I have used opencv and mediapipe libraries to implement Wireles
 To install the required python libraries, execute the following command in the terminal :-  
 -pip install -r requirments.txt
 
-To run the program :-  
-Open WirelessSoundControl.py and execute it
+## Run
+python WirelessSoundControl.py
 
